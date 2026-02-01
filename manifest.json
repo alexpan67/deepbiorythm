@@ -1,0 +1,15 @@
+{
+  "short_name": "DeepBio",
+  "name": "DeepBiorhythm",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#f0f4f8",
+  "display": "standalone",
+  "theme_color": "#2c3e50"
+}
